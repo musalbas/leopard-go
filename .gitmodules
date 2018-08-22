@@ -1,0 +1,3 @@
+[submodule "leopard"]
+	path = leopard
+	url = https://github.com/catid/leopard
